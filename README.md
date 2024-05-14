@@ -51,12 +51,13 @@ This dataset is valuable for exploring and analyzing various aspects of e-commer
 - Data Visualization
 - Sharing Insights
 
-[Notebook](https://github.com/amandeepkaur2024/Zomato)
+[Notebook](https://github.com/amandeepkaur2024/Flipkart)
 
-**Here, some key insights derived from the analysis of the Analyzing Global Dining Trends with Zomato Data**<br>
-- Total Restaurants - 9551, Total Cities - 141, Total Countries - 15, Total Cuisines - 1825, Average Rating - 2.67, Average Cost - 1201
-- Top Cuisines: North Indian, Chinese, Fast Food, Bakery, Cafe
-- Most restaurants have ratings centered around 2.5-3.0, indicating a moderate satisfaction level among customers.
-- The average cost for dining out varies significantly across different cities, with some cities being more expensive than others.
-- There is notable variability in restaurant price ranges across different localities or cities, highlighting diverse affordability levels for dining out experiences.
-- Restaurants offering online delivery and table booking trend to have higher ratings compared to those that do not. 
+**Here, some key insights derived from the analysis of the Analyzing E-Commerce Trends (Flipkart)**<br>
+- Average Metrics: Average Price: 3K, Average Discounted Price: 2K, Discount Percentage: 41%, Average Rating: 3.8.
+- Top Product Categories: Clothing, Jewellery, Footwear, Mobile Accessories, and Automotive.
+- Leading Brands: Allure Auto, Regular, Voylla, Slim, and TheLostPuppy.
+- Most Expensive Products: GAGS Canvas Painting, Breitling, and Durian Leather 2-Seater Sofa.
+- Customer Purchase Trends: Highest purchase likelihood in May.
+- Flipkart Advantage Program: Products are indicated by "is_FK_Advantage_product" as either "Yes" or "No."
+- Monthly Discount Trends: July, May, December, and March exhibit higher sales due to significant discounts.
