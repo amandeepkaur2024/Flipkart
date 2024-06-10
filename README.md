@@ -51,7 +51,6 @@ This dataset is valuable for exploring and analyzing various aspects of e-commer
 - Data Visualization
 - Sharing Insights
 
-[Notebook](https://github.com/amandeepkaur2024/Flipkart)
 
 **Here, some key insights derived from the analysis of the Analyzing E-Commerce Trends (Flipkart)**<br>
 - Average Metrics: Average Price: 3K, Average Discounted Price: 2K, Discount Percentage: 41%, Average Rating: 3.8.
