@@ -51,12 +51,17 @@ This dataset is valuable for exploring and analyzing various aspects of e-commer
 - Data Visualization
 - Sharing Insights
 
+**Key Performance Indicators for Flipkart Tableau Dashboard: Analyzing E-commerce Trends**
+- Average Price: The mean value of product prices across all items sold, providing insight into pricing trends and customer spending habits.
+- Average Discounted Price: The mean value of product prices after applying discounts, reflecting the effectiveness of promotional strategies and their impact on revenue.
+- Discount Percentage: The proportion of discount applied to product prices, indicating the extent of price reduction and its influence on customer purchase behavior.
+- Average Rating: The mean score assigned to products by customers, representing overall satisfaction and product quality perception.
 
-**Here, some key insights derived from the analysis of the Analyzing E-Commerce Trends (Flipkart)**<br>
-- Average Metrics: Average Price: 3K, Average Discounted Price: 2K, Discount Percentage: 41%, Average Rating: 3.8.
-- Top Product Categories: Clothing, Jewellery, Footwear, Mobile Accessories, and Automotive.
-- Leading Brands: Allure Auto, Regular, Voylla, Slim, and TheLostPuppy.
-- Most Expensive Products: GAGS Canvas Painting, Breitling, and Durian Leather 2-Seater Sofa.
-- Customer Purchase Trends: Highest purchase likelihood in May.
-- Flipkart Advantage Program: Products are indicated by "is_FK_Advantage_product" as either "Yes" or "No."
-- Monthly Discount Trends: July, May, December, and March exhibit higher sales due to significant discounts.
+**Key Insights for Flipkart Tableau Dashboard: Analyzing E-commerce Trends**
+- Top 5 Product Categories: The most popular product categories based on sales volume, highlighting consumer preferences and market demand.
+- Discount Percentage by Month: The average discount rate applied to products each month, indicating promotional strategies' effectiveness and seasonal trends.
+- Top 3 Expensive Products: The highest-priced items available on Flipkart, showcasing premium offerings and potential revenue drivers.
+- Flipkart Advantage Analysis: An evaluation of the benefits and performance of Flipkart Advantage, including its impact on sales, customer satisfaction, and operational efficiency.
+- Top 5 Brands: The leading brands based on sales revenue, illustrating brand loyalty and market dominance.
+- Product Rating: The average rating given by customers to products, influencing purchasing decisions and reflecting product quality.
+- Number of Products by Month: The total count of products listed on Flipkart each month, revealing inventory dynamics and platform growth.
